@@ -1,34 +1,7 @@
-# Using_Databases_with_Python
-&lt;Coursera> Using Databases with Python - Assessment
+# Python for Everybody
+&lt;Coursera> Specilization Course by Charles Russell Severance
 
-### How to use SQLite
-1. start sqlite
-Enter "sqlite3 *.sqlite" ( *: name of file )
-
-2. End sqlite
-command + D
-
-3. show tables
-~~~sql
-.table
-~~~
-
-4. show table data
-~~~sql
-SELECT * FROM tablename;
-~~~
-
-5. show data by mode line style
-~~~sql
-.mode line
-~~~
-
-6. show header 
-~~~sql
-.head on
-~~~
-
-7. match column
-~~~sql
-.mode column
-~~~
+## 1. Programming for Everybody (Getting started with Python)
+## 2. Python Data Structures
+## 3. Using Python to Access Web Data
+## 4. Using Databases with Python
